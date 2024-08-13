@@ -1,5 +1,6 @@
 # Project OSI Dashboard SmartFarm (Frontend)
 `` Oemah Solution Indonesia (OSI) Dashboard SmartFarm ``
+- Link:[Smartfarm](https://osi-dashboard-smartfarm.vercel.app/)
 
 ![](image/dashboard.png)
 ![](image/cluster.png)
