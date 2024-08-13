@@ -3,3 +3,6 @@
 
 ![](image/dashboard.png)
 ![](image/cluster.png)
+![](image/controller.png)
+![](image/viewdetailcontroller.png).
+
